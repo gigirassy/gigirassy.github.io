@@ -5,6 +5,10 @@ body{
       font-size:125%;
       padding:3px;
 }
+h2{
+      border-bottom: 3px solid darkorchid;
+      padding:2px;
+}
 .footer{
       text-align:center;
       font-size:75%;
