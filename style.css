@@ -6,12 +6,15 @@ body{
       padding: 3px;
 }
 h2{
-      border-bottom: 3px solid darkorchid;
+      border-bottom: 3px solid #735c73;
       padding:2px;
 }
 .footer{
       text-align:center;
       font-size:75%;
+}
+p{
+      padding:2px;
 }
 .badges{
       position:absolute;
