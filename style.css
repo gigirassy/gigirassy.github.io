@@ -7,14 +7,14 @@ body{
 }
 h2{
       border-bottom: 3px solid #735c73;
-      padding-left:2px;
+      padding:2px;
 }
 .footer{
       text-align:center;
       font-size:75%;
 }
 p{
-      padding:2px;
+      padding-left:2px;
 }
 .badges{
       position:absolute;
