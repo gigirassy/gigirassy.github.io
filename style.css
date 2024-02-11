@@ -44,3 +44,7 @@ a:visited{
 ul{
       list-style-image: url("/img/bullet.jpg");
 }
+
+::selection {
+  background: #a99a86;
+}
