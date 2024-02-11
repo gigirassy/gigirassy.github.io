@@ -38,12 +38,6 @@ a:hover{
       border-radius:5px;
       text-decoration:none;  
 }
-a:visited{
-      background-color:#c4a9d7;
-      color:#21202b;
-      border-radius:5px;
-      text-decoration:underline;  
-}
 ul{
       list-style-image: url("/img/bullet.jpg");
 }
