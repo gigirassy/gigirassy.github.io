@@ -42,6 +42,32 @@ ul{
       list-style-image: url("/img/bullet.jpg");
 }
 
+
+.kb-club a {
+	text-decoration: none;
+  color: green;
+  font-weight: bold;
+  padding: .10rem 0;
+  font-family: sans-serif;
+  transition: .4s;
+  font-size:8px;
+}
+
+.kb-club a:hover {
+  background: #e9ffdb;
+}
+
+.kb-club-bg,
+.kb-club-no-bg {
+	border: 2px solid #74c365;
+	padding: .10rem .10rem;
+}
+
+.kb-club-bg {
+	background: #74c365;
+	color: #212121;
+}
+
 ::selection {
   background: #a99a86;
   color:black;
