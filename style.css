@@ -4,6 +4,7 @@ body{
       font-family: "Trebuchet MS", Helvetica, sans-serif;
       font-size: 125%;
       padding: 3px;
+      line-height: 1.4em;
 }
 h2{
       border-bottom: 3px solid #735c73;
