@@ -52,8 +52,7 @@ ul{
       list-style-image: url("/img/bullet.jpg");
 }
 
-
-
+/* Selection color. It won't work on some browsers, but it not working doesn't interfere with your enjoyment of the site. */
 ::selection {
   background: #a99a86;
   color:black;
