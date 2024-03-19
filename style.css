@@ -8,7 +8,7 @@ body{
       line-height: 1.4em;
 }
 
-/* Headers! I use the second largest headers because why not.. */
+/* Headers! I use the second largest headers because why not. */
 h2{
       border-bottom: 3px solid #735c73;
       padding:2px;
@@ -20,24 +20,17 @@ h2{
       font-size:75%;
 }
 
-/* Paragraph padding. It's pretty cool. */
-p{
-      padding-left:2px;
-}
-
-/* Link colors and highlights! Border radius is just because it's cool. */
+/* Link colors and highlights! */
 a{
-      background-color:#bbaad5;
-      color:#21202b;
-      border-radius:5px;
+      color:#bbaad5;
+      border-bottom: 3px solid #bbaad5;
       text-decoration:none;  
 }
 
 /* Link hover! */
 a:hover{
-      background-color:#e6cbe6;
-      color:#21202b;
-      border-radius:5px;
+      color:#e6cbe6;
+      border-bottom: 3px solid #e6cbe6;
       text-decoration:none;  
 }
 
