@@ -1,0 +1,5 @@
+plugins:
+  - jekyll-feed
+title: Nune Website
+description: Nune's website for all sorts of funky things, like Blitzwing.
+author: Nune
