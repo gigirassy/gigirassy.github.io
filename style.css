@@ -2,15 +2,15 @@
 body{
       background-color: #21202b;
       color: #bec1cd;
-      font-family: "Trebuchet MS", Helvetica, sans-serif;
-      font-size: 125%;
+      font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+      font-size: 120%;
       padding: 3px;
       line-height: 1.4em;
 }
 
 /* Headers! I use the second largest headers because why not. */
 h2{
-      border-bottom: 3px solid #735c73;
+      border-bottom: 2px solid #735c73;
       padding:2px;
 }
 
@@ -23,14 +23,14 @@ h2{
 /* Link colors and highlights! */
 a{
       color:#bbaad5;
-      border-bottom: 3px solid #bbaad5;
+      border-bottom: 2px solid #bbaad5;
       text-decoration:none;  
 }
 
 /* Link hover! */
 a:hover{
       color:#e6cbe6;
-      border-bottom: 3px solid #e6cbe6;
+      border-bottom: 2px solid #e6cbe6;
       text-decoration:none;  
 }
 
