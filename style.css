@@ -2,10 +2,12 @@
 body{
       background-color: #21202b;
       color: #bec1cd;
-      font-family: Cambria, Georgia, serif;
-      font-size: 120%;
-      padding: 3px;
-      line-height: 1.4em;
+      margin: 40px auto;
+      max-width: 650px;
+      line-height: 1.2;
+      font-family:"Segoe UI", Segoe, Tahoma, Geneva, sans-serif;
+      font-size: 18px;
+      padding: 0 8px;
 }
 
 /* Headers! I use the second largest headers because why not. */
