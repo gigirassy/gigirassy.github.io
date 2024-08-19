@@ -53,18 +53,11 @@ ul{
   color:black;
 }
 
-/* (A) BASICS - HIDE DEFAULT + SHOW CUSTOM ARROW */
-.sel select { appearance: none; }
-.sel::after { content: "\25b6"; }
- 
-/* (B) DIMENSIONS */
-/* (B1) WRAPPER - OPTIONAL */
-.sel { max-width: 400px; margin: 10px; }
- 
-/* (B2) "EXPAND" SELECT BOX */
-.sel select {
-  width: 100%; padding: 10px;
-  color: #bec1cd;
-  background-color: #21202b;
-  border: 1px solid #bec1cd;
+.tab div {
+    display: none;
+}
+
+.tab div:target {
+    display: block;
+  
 }
