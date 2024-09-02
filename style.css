@@ -6,7 +6,7 @@ body{
       max-width: 650px;
       line-height: 1.2;
       font-family:"Segoe UI", Segoe, Tahoma, Geneva, sans-serif;
-      font-size: 18px;
+      font-size: 14px;
       padding: 0 8px;
 }
 
@@ -51,13 +51,4 @@ ul{
 ::selection {
   background: #a99a86;
   color:black;
-}
-
-.tab div {
-    display: none;
-}
-
-.tab div:target {
-    display: block;
-  
 }
