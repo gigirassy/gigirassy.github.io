@@ -36,6 +36,14 @@ a:hover{
       text-decoration:none;  
 }
 
+a.button {
+    padding: 1px 6px;
+    border-radius: 5px;
+    color: #21202b;
+    background-color: 21202b;
+    text-decoration: none;
+}
+
 /* Manually sizing images for mobile accessibility! */
 img {
       max-width: 100%;
